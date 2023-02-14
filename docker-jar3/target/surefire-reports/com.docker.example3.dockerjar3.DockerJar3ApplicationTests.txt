@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.docker.example3.dockerjar3.DockerJar3ApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 4.179 s - in com.docker.example3.dockerjar3.DockerJar3ApplicationTests
